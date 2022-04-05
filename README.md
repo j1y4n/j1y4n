@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j1y4n
+- 👋 Hi, I’m Jiyan 
 - 👀 I’m interested in programming, administration, pc design and building
 - 🌱 I’m currently learning python, c#, sql 
 - 📫 How to reach me jiyan.fontaine@protonmail.com
